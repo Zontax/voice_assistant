@@ -5,7 +5,7 @@ from colorama import Fore, init
 from time import sleep
 
 version = ver = 1.0
-voice_man_woman = 1
+voice_man_woman = 0
 hi = 'Zontax'
 
 engine = pyttsx3.init()  # Microsoft (SAPI5) – технология распознавания и синтеза речи

@@ -1,1 +1,0 @@
-Voice Asistant ver 1.0
